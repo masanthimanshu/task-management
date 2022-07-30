@@ -96,6 +96,7 @@ button:hover {
 .modal .inner {
   height: 60%;
   width: 60%;
+  overflow-y: scroll;
   border-radius: 20px;
   padding: 2rem;
   background-color: #1b2430;
